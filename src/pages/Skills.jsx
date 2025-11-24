@@ -52,7 +52,7 @@ const ROWS = [
       title: "Web Technologies",
       items: ["HTML", "CSS", "JavaScript", "React", "NEXT.js"],
     },
-    { title: "Databases & Tools", items: ["MySQL", "MongoDB", "Git"] },
+    { title: "Databases & Tools", items: ["MySQL", "PostgreSQL", "GitHub"] },
   ],
 ];
 
