@@ -14,7 +14,7 @@ const PROJECTS = [
   {
     title: "🖥️ Global Food Regulators Summit",
     desc: "Website for the Global Food Regulators Summit (GFRS)",
-    ss: "/GFRS.jpg",
+    ss: "/GFRS 2025 PNG@3x.png",
     tech: ["React.js", "PostgreSQL"],
     live: "https://gfrs.fssai.gov.in/",
   },
