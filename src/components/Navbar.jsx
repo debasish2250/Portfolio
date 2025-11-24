@@ -63,7 +63,13 @@ export default function Navbar() {
               color: "var(--accent)",
             }}
           >
-            KD
+            <img
+              src="Debasish.png"
+              alt="Debasish"
+              width="50"
+              height="50"
+              style={{ borderRadius: "50%" }}
+            />
           </motion.div>
           <div style={{ display: "flex", flexDirection: "column" }}>
             <h1 style={{ margin: 0, fontSize: 14 }}>Debasish Rout</h1>
