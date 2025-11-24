@@ -128,6 +128,23 @@ export default function Certificates() {
                     View
                   </button>
                 </div>
+                <div style={{ marginTop: 8 }}>
+                  <motion.a href="\Internship certificates-3.pdf" download>
+                    <button
+                      className="btn"
+                      style={{
+                        background: "#007bff",
+                        border: "none",
+                        color: "white",
+                        borderRadius: 6,
+                        padding: "6px 14px",
+                        cursor: "pointer",
+                      }}
+                    >
+                      ⬇️ Download Certificate
+                    </button>
+                  </motion.a>
+                </div>
               </motion.div>
             ))}
           </AnimatePresence>
