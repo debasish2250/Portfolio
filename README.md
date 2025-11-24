@@ -5,7 +5,7 @@
 - 🎨 **Modern UI/UX** with black-based aesthetic theme
 - ⚡ Smooth **Framer Motion** animations
 - 💼 **Projects, Resume, and Contact sections**
-- 🧠 Tech-focused portfolio highlighting AI/ML projects
+- 🧠 Tech-focused portfolio
 - 📨 Functional contact form powered by **EmailJS**
 - 🧩 Responsive design for all screen sizes
 
@@ -20,6 +20,6 @@
 | **Animation**       | Framer Motion                            |
 | **Contact Form**    | EmailJS                                  |
 | **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+| **Deployment**      | Vercel                        |
 
 ---
