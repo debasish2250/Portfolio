@@ -13,9 +13,11 @@ import instagramLogo from "../../public/insta.png";
 
 export default function Home() {
   const professions = [
-    "Tech Enthusiast",
-    "Computer Science Engineering",
     "Full-stack Developer",
+    "Computer Science Engineering",
+    "Tech Explorer",
+    "Frontend Engineer",
+    "Backend Engineer",
   ];
 
   const quickLinks = [
@@ -106,8 +108,7 @@ export default function Home() {
 
           {/* Typing Animated Text */}
           <p className="typing-effect">
-            Full-stack Developer | Frontend Developer | Backend Developer |
-            <br />| Tech Enthusiast |
+            Full-stack Developer | Computer Science Engineer | Tech Enthusiast |
           </p>
 
           {/* Profession Tags */}
