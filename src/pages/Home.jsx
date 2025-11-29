@@ -16,8 +16,8 @@ export default function Home() {
     "Full-stack Developer",
     "Computer Science Engineering",
     "Tech Explorer",
-    "Frontend Engineer",
-    "Backend Engineer",
+    "Frontend Designer",
+    "Backend Architect",
   ];
 
   const quickLinks = [
