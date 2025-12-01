@@ -12,6 +12,14 @@ const PROJECTS = [
     code: "https://github.com/debasish2250/Nexora",
   },
   {
+    title: "🏏 22 Yards",
+    desc: "22 Yards is a modern, blazing fast web application that delivers real-time cricket scores",
+    ss: "/22yards.png",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Radix UI & shadcn/ui"],
+    live: "https://22yards.vercel.app/",
+    code: "https://github.com/debasish2250/22-yards",
+  },
+  {
     title: "🖥️ Global Food Regulators Summit",
     desc: "Website for the Global Food Regulators Summit (GFRS)",
     ss: "/GFRS 2025 PNG@3x.png",
