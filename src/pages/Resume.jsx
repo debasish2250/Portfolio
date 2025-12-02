@@ -157,6 +157,10 @@ export default function Resume() {
               2️⃣ <b>GFRS 2025:</b> Annual Event of Food Safety and Standards
               Authority of India
             </li>
+            <li>
+              3️⃣ <b>22 Yards:</b> Modern, blazing fast web application that
+              delivers real-time cricket scores
+            </li>
           </ul>
         </motion.div>
 
