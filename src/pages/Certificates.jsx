@@ -129,7 +129,7 @@ export default function Certificates() {
                   </button>
                 </div>
                 <div style={{ marginTop: 8 }}>
-                  <motion.a href="\Internship certificates-3.pdf" download>
+                  <motion.a href="\FSSAI Internship certificate.pdf" download>
                     <button
                       className="btn"
                       style={{
