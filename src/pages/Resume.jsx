@@ -256,7 +256,7 @@ export default function Resume() {
           }}
         >
           <iframe
-            src="/Debasish Rout Resume.pdf"
+            src="/Resume.pdf"
             title="Debasish Rout Resume"
             style={{
               width: "100%",
@@ -269,7 +269,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <motion.a
-          href="/Debasish Rout Resume.pdf"
+          href="/Resume.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
