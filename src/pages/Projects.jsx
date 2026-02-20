@@ -23,7 +23,7 @@ const PROJECTS = [
     title: "🎮🎦 Viberaid",
     desc: "Real time streaming platform like Twitch handle streaming, chat, interaction seamlessly",
     ss: "/Viberaid.png",
-    tech: ["Next.js, LiveKit, Tailwind, MySQL, TypeScript"],
+    tech: ["Next.js", "LiveKit", "Tailwind", "MySQL", "TypeScript"],
     live: "https://viberaid.vercel.app/",
     code: "https://github.com/debasish2250/Viberaid",
   },
