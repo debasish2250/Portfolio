@@ -20,7 +20,15 @@ const PROJECTS = [
     code: "https://github.com/debasish2250/22-yards",
   },
   {
-    title: "🖥️ Global Food Regulators Summit",
+    title: "🎮🎦 Viberaid",
+    desc: "Real time streaming platform like Twitch handle streaming, chat, interaction seamlessly",
+    ss: "/Viberaid.png",
+    tech: ["Next.js, LiveKit, Tailwind, MySQL, TypeScript"],
+    live: "https://viberaid.vercel.app/",
+    code: "https://github.com/debasish2250/Viberaid",
+  },
+  {
+    title: "🖥️ Global Food Regulators Summit 2025",
     desc: "Website for the Global Food Regulators Summit (GFRS)",
     ss: "/GFRS 2025 PNG@3x.png",
     tech: ["React.js", "PostgreSQL"],
