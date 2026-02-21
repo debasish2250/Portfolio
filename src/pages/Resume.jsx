@@ -161,6 +161,10 @@ export default function Resume() {
               3️⃣ <b>22 Yards:</b> Modern, blazing fast web application that
               delivers real-time cricket scores
             </li>
+            <li>
+              4️⃣ <b>Viberaid:</b> Delivers seamless live streaming with
+              real-time interaction
+            </li>
           </ul>
         </motion.div>
 
