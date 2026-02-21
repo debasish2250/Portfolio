@@ -28,8 +28,8 @@ const SKILLS = [
     logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
   },
   {
-    name: "Git",
-    logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    name: "GitHub",
+    logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
   },
   {
     name: "PostgreSQL",
@@ -43,6 +43,14 @@ const SKILLS = [
     name: "Python",
     logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
   },
+  {
+    name: "TypeScript",
+    logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+  },
+  {
+    name: "MongoDB",
+    logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+  },
 ];
 
 const ROWS = [
@@ -50,9 +58,12 @@ const ROWS = [
     { title: "Programming Languages", items: ["Java", "Python"] },
     {
       title: "Web Technologies",
-      items: ["HTML", "CSS", "JavaScript", "React", "NEXT.js"],
+      items: ["HTML", "CSS", "JavaScript", "React", "NEXT.js", "TypeScript"],
     },
-    { title: "Databases & Tools", items: ["MySQL", "PostgreSQL", "GitHub"] },
+    {
+      title: "Databases & Tools",
+      items: ["MySQL", "PostgreSQL", "MongoDB", "GitHub"],
+    },
   ],
 ];
 
@@ -100,7 +111,7 @@ export default function Skills() {
           direction: "alternate",
           iterations: Infinity,
           easing: "ease-in-out",
-        }
+        },
       );
     });
   }, []);
