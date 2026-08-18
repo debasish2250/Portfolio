@@ -56,7 +56,7 @@ export default function Resume() {
               👨‍💻 DEBASISH ROUT
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              4th Year B.Tech - Computer Science | Maharshi Dayanand University
+              Graduated B.Tech - Computer Science | Maharshi Dayanand University
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               📍 Delhi, India
@@ -80,7 +80,7 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              4th-year B.Tech Computer Science student experienced in Full-stack
+              B.Tech Computer Science graduate experienced in Full-stack
               Development and computer vision. Skilled in Java, JavaScript,
               TypeScript and Web Development. Passionate about building
               impactful full-stack and seeking opportunities to contribute to

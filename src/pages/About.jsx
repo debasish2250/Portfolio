@@ -74,10 +74,11 @@ const AboutMe = () => {
         </p>
 
         <p>
-          4th-year B.Tech CS Engineering student with hands on experience in
-          Full-stack and Web Dev Projects. Proficient in Java, JavaScript,
-          React, Next and Databses. Seeking internship opportunities to apply
-          skills and contribute to impactful developing solutions.
+          B.Tech Computer Science Engineering graduate with hands-on experience
+          in full-stack and web development projects. Proficient in Java,
+          JavaScript, React, Next.js, and databases. Seeking opportunities to
+          apply my technical skills and contribute to developing impactful,
+          real-world solutions.
         </p>
 
         {/* --- Education Section --- */}
@@ -145,9 +146,11 @@ const AboutMe = () => {
                   <strong>Maharshi Dayanand University</strong> — Delhi, India
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  4th Year (Pursuing)
+                  B.Tech CSE Graduate (CGPA: 7.46)
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>2022 – 2026</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>
+                  September 2022 – August 2026
+                </p>
               </div>
             </motion.div>
 
