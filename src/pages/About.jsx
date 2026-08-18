@@ -135,7 +135,7 @@ const AboutMe = () => {
                     fontSize: "1.25rem",
                   }}
                 >
-                  B.Tech in Computer Science
+                  B.Tech in Computer Scienc
                 </h4>
                 <p
                   style={{
