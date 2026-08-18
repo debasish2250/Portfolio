@@ -1,4 +1,4 @@
-🌐 **Website:** (https://debasish-portfolio-57.vercel.app/)
+🌐 **Website:** (https://debasish225.vercel.app/)
 
 ## 🚀 Features
 
@@ -20,10 +20,12 @@
 | **Animation**       | Framer Motion                            |
 | **Contact Form**    | EmailJS                                  |
 | **Version Control** | Git & GitHub                             |
+
 <<<<<<< HEAD
-| **Deployment**      | Vercel                                   |
+| **Deployment** | Vercel |
 =======
-| **Deployment**      | Vercel                        |
->>>>>>> 2e415cc769a6d901c1c32117fcc785cc61f1b9d2
+| **Deployment** | Vercel |
+
+> > > > > > > 2e415cc769a6d901c1c32117fcc785cc61f1b9d2
 
 ---
